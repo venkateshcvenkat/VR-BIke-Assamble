@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3b37e7b3c56ac594fb836a17a9c9dc12
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Galata Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a530decf26a53094890e5adf8682ca10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
